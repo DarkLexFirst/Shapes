@@ -19,7 +19,7 @@ namespace Shapes
         }
 
         /// <summary>
-        /// Radius of the sircle.
+        /// Radius of the circle.
         /// </summary>
         public double Radius { get; }
 
